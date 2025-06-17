@@ -15,10 +15,7 @@ This is a basic calculator web application built using **HTML**, **CSS**, and **
 - CSS3
 - JavaScript (Vanilla)
 
-## 📸 Screenshots
 
-> *(Add a screenshot if possible)*  
-![Calculator Screenshot](./screenshot.png)
 
 ## 💻 How to Run the Project
 
@@ -48,8 +45,8 @@ calculator/
 
 ## 🙋‍♂️ Author
 
-- **Your Name**
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Aman Sharma
+- GitHub: [https://github.com/Amansharma9603](https://github.com/Amansharma9603)
 
 ## 📄 License
 
